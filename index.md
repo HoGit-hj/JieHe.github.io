@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in Statistics at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
+I obtained my bachelor's degree in <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and Automation </a> from <a href="https://www.gdou.edu.cn/" target="_blank"> Guangdong Ocean University </a> in 2023. During my college years, I was a founding member of the Power Conversion Innovation Team in the College of Electrical and Information Engineering, mentored by Prof. <a href="https://ieeexplore.ieee.org/author/37086852741" target="_blank"> Peng Luo</a>, who received his Ph.D. in 2023 from <a href="https://ieeexplore.ieee.org/author/37276172100" target="_blank"> National Cheng Kung University</a> in Taiwan.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
+<!--
+At the end of 2021, I began researching energy storage for renewable energy and power converters in power electronics. Despite a busy schedule during my junior year, I managed to develop three projects of power converters and produce over ten PCB boards. 
+In terms of academia: Three SCI, one EI Conference, and one utility model patent were accepted and published. 
+In terms of competition: As team leader, I led my team to win a <a href="https://www.gdou.edu.cn/info/1092/46051.htm" target="_blank"> first prize</a> in a national-level competition. 
+In terms of academic performance: Despite ranking 1/ 147 in my major during my junior year, due to an error, I failed one subject. Although I subsequently passed the makeup exam, I consequently lost the eligibility for graduate school recommendation.
+-->
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+After graduation, I worked as a hardware engineer at <a href="https://www.shineyoung.com/" target="_blank"> Shenzhen Shineyoung New Energy Technology Co., Ltd.</a>. Due to my consistent delivery of high-quality work within deadlines, I was promoted to an important project team and received an A in my probationary evaluation.
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Due to our shared passion for power electronics and our future plans, my fiancée, Jie He, and I are applying full-time to the 2025FALL PhD program in the United States.
+
+Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm also an amateur DJ available for parties.
 
 
 ## Research Interests
