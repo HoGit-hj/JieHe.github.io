@@ -21,21 +21,18 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
+- **DC-DC Converter:** topology, simulation and control for high step-up/dwon/buck-boost converter
+- **DC-AC Inverter:** topology, simulation for multilevel inverter
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 
+- **[2022]** <a href="https://www.ces.org.cn/html/report/22092497-1.htm" target="_blank"> First Prize</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1th College Electrical & Electronic Engineering Innovation Competition</a>, Beijing, China
+- **[2022]** Second Prize in EDA (Electronics) at <a href="https://dasai.lanqiao.cn/" target="_blank"> 13th Lanqiao Cup Provincial Competition</a>, Guangdong Province
+- **[2021]** First Class of Academic Excellence Scholarship (top 3%), Guangdong Ocean University
+- **[2021]** Excellence Award in English Speech Contest of EIE College, Guangdong Ocean University
+- **[2020]** Second Class of Academic Excellence Scholarship (top 10%), Guangdong Ocean University
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %}
 
 
 
@@ -60,7 +57,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 - <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
+- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou
 
 
 
