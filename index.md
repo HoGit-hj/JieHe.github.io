@@ -32,7 +32,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 - **[2021]** First Class of Academic Excellence Scholarship (top 3%), Guangdong Ocean University
 - **[2021]** Excellence Award in English Speech Contest of EIE College, Guangdong Ocean University
 - **[2020]** Second Class of Academic Excellence Scholarship (top 10%), Guangdong Ocean University
-
+{% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
 
 
