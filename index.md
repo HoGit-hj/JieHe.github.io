@@ -13,10 +13,10 @@ After graduation, I worked as a hardware engineer in a <a href="https://www.shin
 
 Outside of academia, I've been working out for five years and have a passion for hiking and climbing to experience diverse cultures.
 
-
+<!--看教授怎么写-->
 ## Research Interests
-- **DC-DC Converter:** topology, simulation and control for high step-up/dwon/buck-boost converter
-- **DC-AC Inverter:** topology, simulation for multilevel inverter
+- **DC-DC Converter:** topology and control for high step-up/dwon/buck-boost converter
+- **DC-AC Inverter:** topology for multilevel inverter
 
 
 ## Awards
@@ -29,12 +29,6 @@ Outside of academia, I've been working out for five years and have a passion for
 {% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
 
-
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou
 
 
 
