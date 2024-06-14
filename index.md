@@ -4,14 +4,10 @@ layout: homepage
 
 ## About Me
 
-I obtained my bachelor's degree in <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and Automation </a> from <a href="https://www.gdou.edu.cn/" target="_blank"> Guangdong Ocean University </a> in 2023. During my college years, I was a founding member of the Power Conversion Innovation Team in the College of Electrical and Information Engineering, mentored by Prof. <a href="https://ieeexplore.ieee.org/author/37086852741" target="_blank"> Peng Luo</a>, who received his Ph.D. in 2023 from <a href="https://ieeexplore.ieee.org/author/37276172100" target="_blank"> National Cheng Kung University</a> in Taiwan.
-
-<!--
-At the end of 2021, I began researching energy storage for renewable energy and power converters in power electronics. Despite a busy schedule during my junior year, I managed to develop three projects of power converters and produce over ten PCB boards. 
-In terms of academia: Three SCI, one EI Conference, and one utility model patent were accepted and published. 
-In terms of competition: As team leader, I led my team to win a <a href="https://www.gdou.edu.cn/info/1092/46051.htm" target="_blank"> first prize</a> in a national-level competition. 
-In terms of academic performance: Despite ranking 1/ 147 in my major during my junior year, due to an error, I failed one subject. Although I subsequently passed the makeup exam, I consequently lost the eligibility for graduate school recommendation.
+<!-- I obtained my bachelor's degree in <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and Automation </a> from <a href="https://www.gdou.edu.cn/" target="_blank"> Guangdong Ocean University </a> in 2023. During my college years, I was a founding member of the Power Conversion Innovation Team in the College of Electrical and Information Engineering, mentored by Prof. <a href="https://ieeexplore.ieee.org/author/37086852741" target="_blank"> Peng Luo</a>, who received his Ph.D. in 2023 from <a href="https://ieeexplore.ieee.org/author/37276172100" target="_blank"> National Cheng Kung University</a> in Taiwan.
 -->
+
+I received my B.S. degree in Electrical Engineering and Automation from <a href="https://www.gdou.edu.cn/" target="_blank"> Guangdong Ocean University </a> in 2023. under the mentorship of Prof. <a href="https://ieeexplore.ieee.org/author/37086852741" target="_blank"> Peng Luo</a>, I started my research on power electronics in the first semester of my junior year. My research involves developing high-performance converters (e.g., high step-up and buck-boost converters). This work has two main challenges: First, how to design adaptable topologies based on different scenarios of applications and energy source specifications. Second, how to improve the stability and reliability of the converter using control algorithms and feedback system design.
 
 After graduation, I worked as a hardware engineer in a <a href="https://www.shineyoung.com/" target="_blank"> new energy technology company </a> in Shenzhen, where I applied my circuit analysis skills to real-world problems.
 
