@@ -21,11 +21,13 @@ Outside of academia, I've been working out for five years and have a passion for
 
 ## Awards
 
+- **[2023]** Chinese National Scholarship (top 0.6 %)，  Guangdong Ocean University
+- **[2023]** Outstanding Graduates Awards (top 2%)， Guangdong Ocean University
+- **[2023]** Outstanding Graduates Awards (top 2%)， Guangdong Ocean University
 - **[2022]** <a href="https://www.ces.org.cn/html/report/22092497-1.htm" target="_blank"> First Prize</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1th College Electrical & Electronic Engineering Innovation Competition</a>, Beijing, China
-- **[2022]** Second Prize in EDA (Electronics) at <a href="https://dasai.lanqiao.cn/" target="_blank"> 13th Lanqiao Cup Provincial Competition</a>, Guangdong Province
-- **[2021]** First Class of Academic Excellence Scholarship (top 3%), Guangdong Ocean University
-- **[2021]** Excellence Award in English Speech Contest of EIE College, Guangdong Ocean University
-- **[2020]** Second Class of Academic Excellence Scholarship (top 10%), Guangdong Ocean University
+-  **[2022]** First-class scholarship， Guangdong Ocean University
+-  **[2021]** Second-class scholarship， Guangdong Ocean University
+-  **[2020]** Third-class scholarship， Guangdong Ocean University
 {% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
 
