@@ -34,7 +34,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/125kWPCSfw.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/1work.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Project</abbr>
   </div>
 
@@ -118,7 +118,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/6Buckboost.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/6bj.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Competition</abbr>
   </div>
 
