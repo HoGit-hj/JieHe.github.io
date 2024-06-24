@@ -13,11 +13,13 @@ After graduation, I worked as a hardware engineer in a <a href="https://www.shin
 
 Outside of academia, I enjoy hiking, scuba diving, and travelling.
 
+{% include_relative _includes/projects.md %}
+{% include_relative _includes/services.md %}
 <!--看教授怎么写-->
+
 ## Research Interests
 - **DC-DC Converter:** topology and control for high step-up/dwon/buck-boost converter
 - **DC-AC Inverter:** topology for multilevel inverter
-
 
 ## Awards
 
@@ -27,9 +29,6 @@ Outside of academia, I enjoy hiking, scuba diving, and travelling.
 -  **[2022]** First-class scholarship， Guangdong Ocean University
 -  **[2021]** Second-class scholarship， Guangdong Ocean University
 -  **[2020]** Third-class scholarship， Guangdong Ocean University
-{% include_relative _includes/projects.md %}
-{% include_relative _includes/services.md %}
-
 
 
 
