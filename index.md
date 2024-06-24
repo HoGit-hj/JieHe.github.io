@@ -8,9 +8,7 @@ layout: homepage
 -->
 
 I received my B.S. degree in Electrical Engineering and Automation from <a href="https://www.gdou.edu.cn/" target="_blank"> Guangdong Ocean University </a> in 2023. Under the mentorship of <a href="https://ieeexplore.ieee.org/author/37086852741" target="_blank"> Prof. Peng Luo</a>, I started my research on power electronics in the first semester of my junior year. My research involves developing high-performance converters (e.g., high step-up and buck-boost converters). This work has two main challenges: First, how to design adaptable topologies based on different scenarios of applications and energy source specifications. Second, how to improve the stability and reliability of the converter using control algorithms and feedback system design.
-
 After graduation, I worked as a hardware engineer in a <a href="https://www.shineyoung.com/" target="_blank"> new energy technology company </a> in Shenzhen, where I applied my circuit analysis skills to real-world problems.
-
 Outside of academia, I enjoy hiking, scuba diving, and travelling.
 
 <!--看教授怎么写-->
