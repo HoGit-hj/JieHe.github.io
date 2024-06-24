@@ -23,12 +23,12 @@ Outside of academia, I enjoy hiking, scuba diving, and travelling.
 
 ## Awards
 
-- **[2023]** Chinese National Scholarship (top 0.6 %)，  Guangdong Ocean University
-- **[2023]** Outstanding Graduates Awards (top 2%)， Guangdong Ocean University
+- **[2023]** Chinese National Scholarship (top 0.6 %), Guangdong Ocean University
+- **[2023]** Outstanding Graduates Awards (top 2 %), Guangdong Ocean University
 - **[2022]** <a href="https://www.ces.org.cn/html/report/22092497-1.htm" target="_blank"> First Prize</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1th College Electrical & Electronic Engineering Innovation Competition</a>, Beijing, China
--  **[2022]** First-class scholarship， Guangdong Ocean University
--  **[2021]** Second-class scholarship， Guangdong Ocean University
--  **[2020]** Third-class scholarship， Guangdong Ocean University
+-  **[2022]** First-class scholarship, Guangdong Ocean University
+-  **[2021]** Second-class scholarship, Guangdong Ocean University
+-  **[2020]** Third-class scholarship, Guangdong Ocean University
 
 
 
