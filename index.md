@@ -11,7 +11,7 @@ I received my B.S. degree in Electrical Engineering and Automation from <a href=
 
 After graduation, I worked as a hardware engineer in a <a href="https://www.shineyoung.com/" target="_blank"> new energy technology company </a> in Shenzhen, where I applied my circuit analysis skills to real-world problems.
 
-Outside of academic work, I am passionate about diving, fitness, and hiking. In addition, I enjoy playing chess.
+Outside of academic work, I am passionate about diving, fitness, and hiking. In addition, I also enjoy playing chess.
 
 {% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
