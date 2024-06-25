@@ -127,6 +127,7 @@
     <div class="author">Fuwei Li, Guanghao Chen, <strong> Jie He</strong>, Peng Luo, Donghong Yang</div>
     <div class="periodical"><em> The 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
+    <a href="https://eeeic.ces.org.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
     <a href="assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     <a href="assets/img/Team in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Team</a>
     <a href="https://www.gdou.edu.cn/info/1092/46051.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
