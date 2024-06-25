@@ -34,7 +34,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/1work.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/shineyoung.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Project</abbr>
   </div>
 
@@ -55,7 +55,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/2TIE.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/tie.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -76,7 +76,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/4JPE.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/jpe.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -97,7 +97,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/3IET.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/iet.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -118,7 +118,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/6bj.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/comp.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Competition</abbr>
   </div>
 
@@ -141,7 +141,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/5ITOEC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/itoec.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Conference</abbr>
   </div>
 
