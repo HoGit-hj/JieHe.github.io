@@ -129,7 +129,7 @@
     <div class="links">
     <a href="https://eeeic.ces.org.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
     <a href="assets/files/Poster_Buckboost.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-    <a href="assets/img/Team in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Team</a>
+    <a href="assets/img/team.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Team</a>
     <a href="https://www.gdou.edu.cn/info/1092/46051.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
     </div>
   </div>
