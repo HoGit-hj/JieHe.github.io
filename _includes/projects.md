@@ -130,7 +130,6 @@
     <a href="assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     <a href="assets/img/Team in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Team</a>
     <a href="https://www.gdou.edu.cn/info/1092/46051.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
-    <a href="assets/img/Jie and Fuwei in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Tour</a>
     </div>
   </div>
 </div>
