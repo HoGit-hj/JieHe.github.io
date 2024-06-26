@@ -125,7 +125,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.gdou.edu.cn/info/1092/46051.htm">BUCK-BOOST converter applied in friction-based nanogenerator energy storage device</a></div>
     <div class="author">Fuwei Li, Guanghao Chen, <strong> Jie He</strong>, Peng Luo, Donghong Yang</div>
-    <div class="periodical"><em> The 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
+    <div class="periodical"><em> The 1st College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
     <a href="https://eeeic.ces.org.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
     <a href="assets/files/Poster_Buckboost.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
