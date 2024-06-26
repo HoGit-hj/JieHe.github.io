@@ -43,7 +43,7 @@
     <div class="author"><strong>Jie He</strong> et al.</div>
     <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
     <div class="links">
-    <a href="https://www.shineyoung.com/productinfo/2221242.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    <a href="https://www.shineyoung.com/productinfo/2221155.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/shineyoung_PV125KTL-B.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
