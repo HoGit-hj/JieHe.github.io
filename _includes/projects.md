@@ -39,7 +39,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.shineyoung.com/productinfo/2221242.html">A 125 kW PV string inverter (using the three-level T-type topology) for commercial and industrial energy storage</a></div>
+    <div class="title"><a href="https://www.shineyoung.com/productinfo/2221155.html">A 125 kW PV string inverter (using the three-level T-type topology) for commercial and industrial energy storage</a></div>
     <div class="author"><strong>Jie He</strong> et al.</div>
     <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
     <div class="links">
